@@ -48,6 +48,6 @@ frase.lstrip() =  remove os espacos da esquerda (os primeiros)
  frase.split() = divisao das palavras usando cada espaco vazio e recebe uma lista nova cada palavra dentro da lista original, cada uma ganhando seu index do zero ao final
  '-'.join(frase) = junta todos os elementos de frase e vai usar o separador que o tracinho colocado no inicio
  
- 
+ fim
  
  '''

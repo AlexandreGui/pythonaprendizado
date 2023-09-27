@@ -32,6 +32,5 @@ else:
     print('Seu nome e tao normal')
 print('Bom dia,{:.1}!'.format(nome))
 {:.1} print de formatacao para 1 casa decimal.
-
-
+fim
 '''
