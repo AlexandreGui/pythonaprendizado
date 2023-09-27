@@ -13,7 +13,7 @@ float (4.5, 0.076)
 bool (True , False) lembrando que deve ter letra maiuscula no inicio.
 str  ( 'oi' , 'palavra' ) tem que estar entre aspas simples (mas vale aspas dupplas)
 
-aa
+aaa
  '''
 
  
