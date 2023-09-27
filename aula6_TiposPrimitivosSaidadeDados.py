@@ -15,3 +15,5 @@ str  ( 'oi' , 'palavra' ) tem que estar entre aspas simples (mas vale aspas dupp
 
 
  '''
+
+ 
